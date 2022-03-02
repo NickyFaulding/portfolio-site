@@ -1,0 +1,6 @@
+[book]
+authors = ["NICKY FAULDING"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Nicky's Portfolio"
